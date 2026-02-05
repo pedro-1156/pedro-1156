@@ -63,5 +63,3 @@ One of my main projects for learning real backend development.
 GitHub: **@pedro-1156**
 
 ---
-## 🙍‍♂️👧 Pronouns
-He/Him
