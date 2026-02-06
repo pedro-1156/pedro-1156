@@ -13,8 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="55"/>
-  <img src="https://cdn.simpleicons.org/flask/00ffff" width="45"/>
+  <img src="https://cdn.simpleicons.org/flask/0f8099" width="45"/>
 </p>
 
 ---
