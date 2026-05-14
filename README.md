@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 My Projects
+## 🚀 Some of my Projects
 
 ### 🌐 Simple Site  
 Just a simple website I made when I was 11 — practicing HTML and basic layout.  
