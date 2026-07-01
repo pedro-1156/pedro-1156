@@ -23,33 +23,12 @@
 
 ## 🚀 Some of my Projects
 
-### 🌐 Simple Site  
-Just a simple website I made when I was 11 — practicing HTML and basic layout.  
-🔗 https://github.com/pedro-1156/Simple-Site  
-
----
-
-### ⏰ Digital Clock Project  
-A fun project built with HTML, CSS and JavaScript — a working digital clock.  
-🔗 https://github.com/pedro-1156/Digital-Clock-Project  
-
----
-
-### 🗄 FullstackSite  
-A fullstack web app using **Python (Flask)**, **SQLite**, HTML and CSS.  
-Great practice for backend + database integration.  
-🔗 https://github.com/pedro-1156/FullstackSite  
-
----
-
-### ✅ To-Do List (Fullstack)  
-A complete to-do app made with **Flask**, **PostgreSQL**, and HTML.  
-One of my main projects for learning real backend development.  
-🔗 https://github.com/pedro-1156/To-Do-List  
-
----
+### Pyeasyfiles
+A Python library for managing files easily.
 
 
+### To-Do List
+A fullstack project that uses Flask (Python) for backend and HTML/CSS/JS for frontend (and PostgreSQL for database)
 ---
 
 ## 🎯 Goals
@@ -63,5 +42,6 @@ One of my main projects for learning real backend development.
 ## 📫 Contact
 
 GitHub: **@pedro-1156**
+Email: **pedrolucasdev644@gmail.com**
 
 ---
