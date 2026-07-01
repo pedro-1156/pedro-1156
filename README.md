@@ -19,8 +19,6 @@
 
 ---
 
----
-
 ## 🚀 Some of my Projects
 
 ### Pyeasyfiles
@@ -29,7 +27,6 @@ A Python library for managing files easily.
 
 ### To-Do List
 A fullstack project that uses Flask (Python) for backend and HTML/CSS/JS for frontend (and PostgreSQL for database)
----
 
 ## 🎯 Goals
 
